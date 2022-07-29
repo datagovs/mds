@@ -10,7 +10,7 @@ This Data Standard was created by Open Mobility Foundation and this is a quickst
 ## Use Cases
 
 - Deploy Mobility Data Specification using Govs as API Management and Version Control
-- Securely connect assets to comply with the Mobility Data Compliance 
+- Securely connect assets to comply with the Mobility Data Specification
 - Publish in public or private - status, availability, and regulations 
 - Use our data feed to track issues, incidents, and complaince
 - No vendor lock-in 
